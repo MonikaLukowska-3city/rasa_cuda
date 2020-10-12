@@ -1,0 +1,6 @@
+rasa
+rasa[spacy]
+spacy
+flask
+numpy==1.18.5
+gast==0.3.3
